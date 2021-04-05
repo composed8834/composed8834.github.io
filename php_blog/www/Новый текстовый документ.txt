@@ -1,0 +1,81 @@
+mysite.u-gu.ru                                 
+
+
+Database:	u28526_phpblog
+
+Username:	u28526_bloguser
+
+Password:	12345
+
+
+------------------------------------------------------------
+
+
+Здравствуйте, Андрей Коржиков!
+
+Вами был заказан хостинг!
+
+Информация о заказе
+
+Панель управления хостингом: http://176.9.32.230:2222/
+phpMyAdmin (доступно при наличии созданных БД): http://176.9.32.230/phpmyadmin/
+FTP-сервер: 176.9.32.230
+   порт FTP-сервера: 21
+   режим соединения c FTP-сервером: пассивный // Passive Mode
+Имя пользователя: u28526
+Пароль (хостинг-панель, FTP, phpMyAdmin): EsmJGZpt
+Код:nb0z3d12
+
+С уважением, Guru-Host
+~~~
+Guru-Host: http://guru-host.ru
+Биллинг-панель: http://guru-host.ru/billing/
+
+
+
+
+
+Чтобы убрать кодировку ??????????????????, нужно в файл bd.php, вставить 
+
+
+<?
+$db=mysql_connect("sql204.byethost9.com", "b9_13773020", "5k7r8pm");
+mysql_query('SET NAMES cp1251'); или mysql_query("SET NAMES 'utf8'");
+mysql_select_db("b9_13773020_php_blog", $db);
+?>
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+best regards
+byethost9.com
+
+Control panel URL http://cpanel.byethost9.com
+
+
+Cpanel Username: b9_13773020
+Cpanel Password: 5k7r8pm
+Your URL: http://comp1.byethost9.com or http://www.comp1.byethost9.com
+FTP Server : ftp.byethost9.com
+FTP Login : b9_13773020
+FTP Password : 5k7r8pm
+
+MySQL hostname sql204.byethost9.com
+
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b9_13773020
+MySQL Password : 5k7r8pm
+MySQL Server: SEE THE CPANEL
+
+
+
+
